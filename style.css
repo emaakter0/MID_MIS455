@@ -79,3 +79,18 @@ img:hover {
     opacity: 0.8;
     transition: opacity 0.3s ease-in-out;
 }
+
+
+#contact img {
+    max-width: 30%;
+    height: 150px;
+    display: block;
+    border: 1px solid #ddd; 
+    border-radius: 5px; 
+    margin: 5px 0; 
+}
+
+#contact p {
+    margin-bottom: 30px; 
+    line-height: 1.5; 
+}
